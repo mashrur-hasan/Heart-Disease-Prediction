@@ -1,10 +1,10 @@
 <div align="center">
   <b>Personal Portfolio:</b>
-  <a href="https://github.com/bhung-chung/Bangla-Fake-News-Detection">Bangla Fake News Detection</a> |
-  <a href="https://github.com/bhung-chung/Drone-Object-Detection">Drone Object Detection</a> |
-  <a href="https://github.com/bhung-chung/Heart-Disease-Prediction">Heart Disease Prediction</a> |
-  <a href="https://github.com/bhung-chung/Wooden-Planetary-Gear">Planetary Gear System</a> |
-  <a href="https://github.com/bhung-chung/Autonomous-Obstacle-Avoiding-Robot">Obstacle Avoiding Robot</a>
+  <a href="https://github.com/mashrur-hasan/Bangla-Fake-News-Detection">Bangla Fake News Detection</a> |
+  <a href="https://github.com/mashrur-hasan/Drone-Object-Detection">Drone Object Detection</a> |
+  <a href="https://github.com/mashrur-hasan/Heart-Disease-Prediction">Heart Disease Prediction</a> |
+  <a href="https://github.com/mashrur-hasan/Wooden-Planetary-Gear">Planetary Gear System</a> |
+  <a href="https://github.com/mashrur-hasan/Autonomous-Obstacle-Avoiding-Robot">Obstacle Avoiding Robot</a>
 </div><br>
 # 🫀 Heart Disease Prediction (ML Zoomcamp Midterm Project)
 
@@ -302,7 +302,7 @@ These were used to deploy the model:
 
 1. Pushed project to GitHub
 2. Created a **New Web Service** on Render
-3. Selected repo: `bhung-chung/mlzoomcamp-heart-risk`
+3. Selected repo: `mashrur-hasan/mlzoomcamp-heart-risk`
 4. Set:
 
 | Setting       | Value                             |
